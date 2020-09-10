@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Jake Harper](https://github.com/lil-j/lil-j/blob/master/banner.png)
 
 <!--
 **lil-j/lil-j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
