@@ -1,4 +1,3 @@
-### Hi there 👋
 ![Jake Harper](https://github.com/lil-j/lil-j/blob/master/banner.png)
 
 <!--
